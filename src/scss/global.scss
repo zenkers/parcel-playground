@@ -17,5 +17,9 @@ html {
     img {
       width: 100%;
     }
+
+    ::placeholder {
+      color: gray;
+    }
   }
 }
